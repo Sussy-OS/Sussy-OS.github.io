@@ -23,7 +23,7 @@ email: SussyS0S-Operating-Systems@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Sussy Operating Systems Inc! (aka, Sussy S0S)
   Everything is fun, easy to use, and most importantly.. Sussy! You can
-  brouse around the site, thanks for helping!
+  browse around the site, thanks for helping!
   
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://sussy-os.github.io" # the base hostname & protocol for your site, e.g. http://example.com
